@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369839462298",
+    "project_id": "market-shop-b5e1d",
+    "storage_bucket": "market-shop-b5e1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369839462298:android:6375abe8231d5a1b2c0c23",
+        "android_client_info": {
+          "package_name": "com.example.market_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyTdO2W0SF-Cqd0qqMfgMFK4Czuy_sTaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
